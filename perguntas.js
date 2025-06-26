@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Times BR',
     'Qual time brasileiro tem mais mundiais?',
-    'Corinthians'
+    'São Paulo'
 )
 
 criaCartao(
